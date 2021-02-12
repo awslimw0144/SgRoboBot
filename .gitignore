@@ -1,3 +1,6 @@
-# To Ignore
+# To Save Space
 node_modules/
+dist/
+
+# To protect my work ....
 package.json
